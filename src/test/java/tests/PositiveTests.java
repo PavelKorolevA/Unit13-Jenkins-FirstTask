@@ -6,27 +6,27 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class PositiveTests {
     @Test
-    void test0() {
+    void test00() {
         assertTrue(true);
     }
 
     @Test
-    void test1() {
+    void test01() {
         assertTrue(true);
     }
 
     @Test
-    void test2() {
+    void test02() {
         assertTrue(true);
     }
 
     @Test
-    void test3() {
+    void test03() {
         assertTrue(true);
     }
 
     @Test
-    void test4() {
+    void test04() {
         assertTrue(true);
     }
 
